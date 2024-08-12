@@ -1,3 +1,3 @@
-# 🛒 HamesStore
+# 🛒 Store
 
 sayed# fakeStore
